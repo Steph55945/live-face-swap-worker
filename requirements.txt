@@ -1,0 +1,5 @@
+runpod
+insightface
+onnxruntime-gpu
+opencv-python-headless
+numpy
